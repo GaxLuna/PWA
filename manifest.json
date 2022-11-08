@@ -1,0 +1,17 @@
+{
+    "name": "Soy una PWA",
+    "short_name": "PWA",
+    "theme_color": "#FFE08A",
+    "background_color": "FFE08A",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "/db/img/usuario.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
